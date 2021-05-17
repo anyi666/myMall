@@ -15,10 +15,10 @@
       <img slot="item-icon-active" src="~assets/img/imgs/lb-active.png" alt="">
       <div slot="item-text">列表</div>
     </tab-bar-item>
-    <tab-bar-item path="/gift">
+    <tab-bar-item path="/category">
       <img slot="item-icon" src="~assets/img/imgs/lw.png" alt="">
       <img slot="item-icon-active" src="~assets/img/imgs/lw-active.png" alt="">
-      <div slot="item-text">礼物</div>
+      <div slot="item-text">分类</div>
     </tab-bar-item>
     <tab-bar-item path="/navigation">
       <img slot="item-icon" src="~assets/img/imgs/dh.png" alt="">
